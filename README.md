@@ -1,4 +1,6 @@
 hello-world
 ===========
 
-First git
+First repository
+
+I'm Daniel learning python.
